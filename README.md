@@ -9,17 +9,6 @@
 ## 🌱 About Me
 I’m a Computer Science student focused on building practical skills beyond coding. I’m passionate about organization, communication, and helping people solve problems through technology.
 
-I’m currently gaining experience through services like virtual assistance, writing, and basic technical support, while exploring career paths where I can grow and contribute effectively.
-
----
-
-## 💼 What I Do
-- 📅 Appointment Scheduling & Organization
-- ✍️ Writing & Documentation
-- 🧑‍💻 Virtual Assistance
-- 🌐 Basic Web & Tech Support
-- 📧 Email Management / Marketing Support
-
 ---
 
 ## 🎯 Goals
@@ -35,4 +24,4 @@ I’m currently gaining experience through services like virtual assistance, wri
 - 💼 LinkedIn: https://www.linkedin.com/in/angel-julliane-mangubat/
 ---
 
-⭐ *Open to opportunities, collaborations, and learning experiences!*## Hi there 👋
+⭐ *Open to opportunities, collaborations, and learning experiences!*

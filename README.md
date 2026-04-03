@@ -20,7 +20,7 @@ I’m a Computer Science student focused on building practical skills beyond cod
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: angeljullianemangubat@gmail.com  
+- 📧 Email: aj13.201im@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/angel-julliane-mangubat/
 ---
 
